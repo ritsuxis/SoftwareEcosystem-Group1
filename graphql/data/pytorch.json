@@ -1,0 +1,40 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/pytorch/pytorch/issues/62540",
+          "title": "[Meta] Change default branch name to `main` for repos in `pytorch` project"
+        },
+        {
+          "url": "https://github.com/pytorch/pytorch/issues/25032",
+          "title": "[FYI] NestedTensor Project Progress"
+        },
+        {
+          "url": "https://github.com/pytorch/pytorch/pull/88356",
+          "title": "malfet/wip symshape ctrl flow"
+        },
+        {
+          "url": "https://github.com/pytorch/pytorch/issues/63753",
+          "title": "Make torchhub more robust regarding the master -> main renaming in other repos"
+        },
+        {
+          "url": "https://github.com/pytorch/pytorch/pull/64104",
+          "title": "Add basic ltc codegen to staging branch"
+        },
+        {
+          "url": "https://github.com/pytorch/pytorch/pull/32495",
+          "title": "Add option to use ninja to compile ahead-of-time cpp_extensions"
+        },
+        {
+          "url": "https://github.com/pytorch/pytorch/issues/5738",
+          "title": "[feature request][docs] Make highly visible distinction between master docs and stable docs"
+        },
+        {
+          "url": "https://github.com/pytorch/pytorch/issues/542",
+          "title": "API suggestion: \".gpu()\" instead of \".cuda()\""
+        }
+      ]
+    }
+  }
+}

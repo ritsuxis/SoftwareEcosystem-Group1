@@ -1,0 +1,16 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/electron/electron/pull/24305",
+          "title": "refactor: rename TopLevelWindow to BaseWindow"
+        },
+        {
+          "url": "https://github.com/electron/electron/pull/14558",
+          "title": "ci: Rename appveyor-override.yml to appveyor.yml (3-0-x)"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/956",
+          "title": "Suggest correct filename for editing"
+        },
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/1299",
+          "title": "IndexError when using thefuck with brew install command"
+        },
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/1305",
+          "title": "how change `thefuck` default prompt"
+        },
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/700",
+          "title": "Fuck suggests `fincore [fixed-command]` with sudo"
+        },
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/1047",
+          "title": "Crash when trying to correct `pip un+install thefuck`"
+        },
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/925",
+          "title": "Help with `docker image rm`"
+        },
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/797",
+          "title": "fuck:history: bad option: -s"
+        },
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/637",
+          "title": "Support yarn require muscle memory"
+        },
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/274",
+          "title": "Rename master branch "
+        },
+        {
+          "url": "https://github.com/nvbn/thefuck/issues/369",
+          "title": "`git_fix_stash` rule fails when script is just `git`"
+        }
+      ]
+    }
+  }
+}

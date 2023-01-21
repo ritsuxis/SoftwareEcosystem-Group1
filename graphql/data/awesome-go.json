@@ -1,0 +1,20 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/avelino/awesome-go/pull/4187",
+          "title": "Rename package \"config\" to \"GoLobby/Config\""
+        },
+        {
+          "url": "https://github.com/avelino/awesome-go/issues/3944",
+          "title": "Rename the master branch to main"
+        },
+        {
+          "url": "https://github.com/avelino/awesome-go/pull/3945",
+          "title": "rename all hard ref branch master to main"
+        }
+      ]
+    }
+  }
+}

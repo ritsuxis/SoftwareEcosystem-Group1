@@ -1,0 +1,16 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/denoland/deno/pull/9503",
+          "title": "chore: rename default branch to main"
+        },
+        {
+          "url": "https://github.com/denoland/deno/issues/6296",
+          "title": "Could you please rename master branch and references to those in the code?"
+        }
+      ]
+    }
+  }
+}

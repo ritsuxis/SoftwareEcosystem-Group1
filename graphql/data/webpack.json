@@ -1,0 +1,32 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/webpack/webpack/pull/13208",
+          "title": "chore(deps-dev): bump fork-ts-checker-webpack-plugin from 6.2.1 to 6.2.4"
+        },
+        {
+          "url": "https://github.com/webpack/webpack/pull/13204",
+          "title": "chore(deps-dev): bump fork-ts-checker-webpack-plugin from 6.2.1 to 6.2.3"
+        },
+        {
+          "url": "https://github.com/webpack/webpack/pull/13201",
+          "title": "chore(deps-dev): bump fork-ts-checker-webpack-plugin from 6.2.1 to 6.2.2"
+        },
+        {
+          "url": "https://github.com/webpack/webpack/pull/12034",
+          "title": "chore(deps-dev): bump simple-git from 2.21.0 to 2.23.0"
+        },
+        {
+          "url": "https://github.com/webpack/webpack/pull/9652",
+          "title": "chore(deps-dev): bump eslint-plugin-jsdoc from 15.8.4 to 15.9.0"
+        },
+        {
+          "url": "https://github.com/webpack/webpack/pull/9653",
+          "title": "chore(deps-dev): bump eslint-plugin-jsdoc from 15.8.4 to 15.9.1"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/microsoft/PowerToys/issues/12836",
+          "title": "Add aka.ms link for license"
+        },
+        {
+          "url": "https://github.com/microsoft/PowerToys/issues/5433",
+          "title": "Change Master to Main"
+        },
+        {
+          "url": "https://github.com/microsoft/PowerToys/pull/13235",
+          "title": "Prepare for renaming master -> main"
+        },
+        {
+          "url": "https://github.com/microsoft/PowerToys/issues/11569",
+          "title": "Rename `master` branch to `main`"
+        }
+      ]
+    }
+  }
+}

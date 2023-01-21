@@ -1,0 +1,36 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/angular/angular/pull/48370",
+          "title": "build: update dependency ts-node to v10"
+        },
+        {
+          "url": "https://github.com/angular/angular/issues/37963",
+          "title": "Rename the \"master\" branch to avoid problematic terminology"
+        },
+        {
+          "url": "https://github.com/angular/angular/pull/45856",
+          "title": "build: clean up references to old `master` branch"
+        },
+        {
+          "url": "https://github.com/angular/angular/pull/44184",
+          "title": "build: update dependency lighthouse to v9"
+        },
+        {
+          "url": "https://github.com/angular/angular/pull/34909",
+          "title": "fix(language-service): rename getDiagnostics to getSemanticDiagnostics"
+        },
+        {
+          "url": "https://github.com/angular/angular/pull/34518",
+          "title": "refactor(language-service): rename expression completions method"
+        },
+        {
+          "url": "https://github.com/angular/angular/issues/20349",
+          "title": "Issue with importing Observable from rxjs/Rx (import-blacklisted)"
+        }
+      ]
+    }
+  }
+}

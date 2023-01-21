@@ -1,0 +1,40 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/ohmyzsh/ohmyzsh/issues/10314",
+          "title": "Tracking: master branch rename"
+        },
+        {
+          "url": "https://github.com/ohmyzsh/ohmyzsh/issues/9015",
+          "title": "Rename OMZ's master branch"
+        },
+        {
+          "url": "https://github.com/ohmyzsh/ohmyzsh/issues/10428",
+          "title": "Error: Updating plugins/osx would lose untracked files in them"
+        },
+        {
+          "url": "https://github.com/ohmyzsh/ohmyzsh/issues/10163",
+          "title": "changelog display looks broken for \"BREAKING CHANGES\""
+        },
+        {
+          "url": "https://github.com/ohmyzsh/ohmyzsh/issues/9999",
+          "title": "Update master to main"
+        },
+        {
+          "url": "https://github.com/ohmyzsh/ohmyzsh/issues/4085",
+          "title": "Core `lib/git.zsh` depends on `current_branch()` from git plugin"
+        },
+        {
+          "url": "https://github.com/ohmyzsh/ohmyzsh/pull/204",
+          "title": "sorin theme"
+        },
+        {
+          "url": "https://github.com/ohmyzsh/ohmyzsh/pull/153",
+          "title": "sorin oh-my-zsh theme"
+        }
+      ]
+    }
+  }
+}

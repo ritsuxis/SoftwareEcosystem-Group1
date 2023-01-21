@@ -1,0 +1,28 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/animate-css/animate.css/pull/1575",
+          "title": "Bump markdown-it from 12.3.2 to 13.0.1"
+        },
+        {
+          "url": "https://github.com/animate-css/animate.css/pull/1465",
+          "title": "Bump eslint from 7.32.0 to 8.8.0"
+        },
+        {
+          "url": "https://github.com/animate-css/animate.css/pull/1454",
+          "title": "Bump eslint from 7.32.0 to 8.7.0"
+        },
+        {
+          "url": "https://github.com/animate-css/animate.css/pull/1475",
+          "title": "Bump eslint from 7.32.0 to 8.9.0"
+        },
+        {
+          "url": "https://github.com/animate-css/animate.css/issues/1070",
+          "title": "Rename `master` branch to `main`"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/rust-lang/rust/issues/94275",
+          "title": "multiple definition of `llvm:: cl ::Option::anchor()' when running x.py build"
+        },
+        {
+          "url": "https://github.com/rust-lang/rust/issues/73385",
+          "title": "Rename master branch to less discriminating name"
+        },
+        {
+          "url": "https://github.com/rust-lang/rust/issues/72576",
+          "title": "net::tcp::tests::double_bind panics in ./x.py test"
+        },
+        {
+          "url": "https://github.com/rust-lang/rust/issues/64285",
+          "title": "Enforce `min_const_fn` by default in `staged_api` with opt-out"
+        },
+        {
+          "url": "https://github.com/rust-lang/rust/issues/44844",
+          "title": "Move `compile-fail` tests to `ui`"
+        },
+        {
+          "url": "https://github.com/rust-lang/rust/issues/27504",
+          "title": "Consider renaming the \"master\" branch"
+        },
+        {
+          "url": "https://github.com/rust-lang/rust/issues/18763",
+          "title": "ICE when compiling gl-rs"
+        },
+        {
+          "url": "https://github.com/rust-lang/rust/issues/10838",
+          "title": "Rename the 'sub-tutorials' to 'guides'"
+        }
+      ]
+    }
+  }
+}

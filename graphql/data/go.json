@@ -1,0 +1,72 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/golang/go/issues/49146",
+          "title": "proxy.golang.org: stop serving /@v/branchname.info when the branch is deleted"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/31865",
+          "title": "x/exp/sumdb: package rename causes go get to fail"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/41870",
+          "title": "x/tools/gopls: \"renaming [method] is not possible because [package] has errors\""
+        },
+        {
+          "url": "https://github.com/golang/go/issues/57185",
+          "title": "proxy.golang.org: widespread not found: fetch timed out"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/9602",
+          "title": "x/review/git-codereview: tests are broken"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/56165",
+          "title": "proposal: Go 2: error handling: try statement with handler"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/40276",
+          "title": "cmd/go: 'go install' should install executables in module mode outside a module"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/55026",
+          "title": "proposal: Go 2: Error handling that is compact and composeable"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/47538",
+          "title": "x/tools/gopls: error loading workspace when go.mod is directly updated to include a new dependency"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/43542",
+          "title": "cmd/go: A survey on Golang's dependency management modes (GOPATH and Go Modules): status quo, problems and challenges"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/35035",
+          "title": "tools/internal/lsp: panic in go/packages during package rename"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/39589",
+          "title": "Could you please rename master branch?"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/23974",
+          "title": "x/vgo: cannot import redirected/renamed packages"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/25494",
+          "title": "x/vgo: vgo unable to find go.mod file of package in tagged GitHub repo"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/33551",
+          "title": "x/tools/gopls: failures in kubernetes repository"
+        },
+        {
+          "url": "https://github.com/golang/go/issues/2109",
+          "title": "cmd/go: make update work consistently for git"
+        }
+      ]
+    }
+  }
+}

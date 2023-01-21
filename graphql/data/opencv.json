@@ -1,0 +1,36 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/opencv/opencv/issues/19418",
+          "title": "test_io fails on master -> very basic coding error in persistence.cpp found via debugging and code review: no error checking fopen(). WTF?"
+        },
+        {
+          "url": "https://github.com/opencv/opencv/issues/21447",
+          "title": "libade.a does not get installed, but referenced in OpenCVModules.cmake with static build"
+        },
+        {
+          "url": "https://github.com/opencv/opencv/pull/11638",
+          "title": "documentation: avoid links to 'master' branch from 3.4 maintenance branch"
+        },
+        {
+          "url": "https://github.com/opencv/opencv/issues/9622",
+          "title": "Compilation and linking errors with Intel IPP/MKL 2018"
+        },
+        {
+          "url": "https://github.com/opencv/opencv/issues/8962",
+          "title": "CMake Project Fails Under a Directory With Non-Alphanumeric Characters"
+        },
+        {
+          "url": "https://github.com/opencv/opencv/pull/1",
+          "title": "Fixes"
+        },
+        {
+          "url": "https://github.com/opencv/opencv/pull/3065",
+          "title": "Fix binary package build"
+        }
+      ]
+    }
+  }
+}

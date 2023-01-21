@@ -1,0 +1,20 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/sindresorhus/awesome/pull/2013",
+          "title": "Add Urban & Regional Planning"
+        },
+        {
+          "url": "https://github.com/sindresorhus/awesome/issues/1793",
+          "title": " Could you please rename master branch?"
+        },
+        {
+          "url": "https://github.com/sindresorhus/awesome/pull/1805",
+          "title": "Add Flame"
+        }
+      ]
+    }
+  }
+}

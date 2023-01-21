@@ -1,0 +1,48 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/tensorflow/tensorflow/issues/55970",
+          "title": "TensorFlow Lite build with CMake does not produce a binary on Windows"
+        },
+        {
+          "url": "https://github.com/tensorflow/tensorflow/issues/50132",
+          "title": "CMake Error Building Tensorflow Lite"
+        },
+        {
+          "url": "https://github.com/tensorflow/tensorflow/pull/53429",
+          "title": "Bump psutil from 5.6.2 to 5.6.6 in /tensorflow/tools/ci_build/release"
+        },
+        {
+          "url": "https://github.com/tensorflow/tensorflow/issues/50354",
+          "title": "Build from source (tensorflow)"
+        },
+        {
+          "url": "https://github.com/tensorflow/tensorflow/issues/23342",
+          "title": "Issue in building Tensorflow library on Windows machine"
+        },
+        {
+          "url": "https://github.com/tensorflow/tensorflow/pull/29181",
+          "title": "[ROCm] Renaming GetCudaStream to GetGpuStream"
+        },
+        {
+          "url": "https://github.com/tensorflow/tensorflow/issues/22309",
+          "title": "About partitioned variable is Disabled in DistributionStrategy"
+        },
+        {
+          "url": "https://github.com/tensorflow/tensorflow/pull/21281",
+          "title": "Add Cloud Bigtable user docs for TF 1.10 release"
+        },
+        {
+          "url": "https://github.com/tensorflow/tensorflow/issues/6405",
+          "title": "tf.split_v() is removed in master?"
+        },
+        {
+          "url": "https://github.com/tensorflow/tensorflow/pull/1706",
+          "title": "rename var mu to learning_rate"
+        }
+      ]
+    }
+  }
+}

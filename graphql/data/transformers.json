@@ -1,0 +1,36 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/huggingface/transformers/pull/20109",
+          "title": "docs: Replace awkward `timm` link with the expected one"
+        },
+        {
+          "url": "https://github.com/huggingface/transformers/pull/19055",
+          "title": "Rebase ESM PR and update all file formats"
+        },
+        {
+          "url": "https://github.com/huggingface/transformers/issues/16289",
+          "title": "Changing the default branch from `master` to `main`."
+        },
+        {
+          "url": "https://github.com/huggingface/transformers/pull/16397",
+          "title": "Rename master to main for notebooks links and leftovers"
+        },
+        {
+          "url": "https://github.com/huggingface/transformers/pull/13207",
+          "title": "Support for Training with BF16"
+        },
+        {
+          "url": "https://github.com/huggingface/transformers/pull/6654",
+          "title": "prepare_seq2seq_batch makes labels/ decoder_input_ids made later."
+        },
+        {
+          "url": "https://github.com/huggingface/transformers/pull/3254",
+          "title": "Bump psutil from 5.6.3 to 5.6.6 in /examples/distillation"
+        }
+      ]
+    }
+  }
+}

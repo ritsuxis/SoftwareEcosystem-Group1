@@ -1,0 +1,56 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/apple/swift/issues/52417",
+          "title": "[SR-10014] Issues building latest Apple Swift 5 master branch on PowerPC64LE"
+        },
+        {
+          "url": "https://github.com/apple/swift/pull/31598",
+          "title": "[5.3][IDE][SourceKit] Support escaped identifiers for the syntactic rename and related idents requests."
+        },
+        {
+          "url": "https://github.com/apple/swift/issues/56408",
+          "title": "[SR-14015] [docs] Update references master -> main for branch related information"
+        },
+        {
+          "url": "https://github.com/apple/swift/issues/47171",
+          "title": "[SR-4594] circularity check re-delayed"
+        },
+        {
+          "url": "https://github.com/apple/swift/issues/47152",
+          "title": "[SR-4575] Assertion failed: (!base || !base->hasTypeParameter()), function OverloadChoice"
+        },
+        {
+          "url": "https://github.com/apple/swift/pull/5056",
+          "title": "[update-checkout] Add an option '--dump-hashes' for dumping the check\u2026"
+        },
+        {
+          "url": "https://github.com/apple/swift/pull/34418",
+          "title": "Update repos with refs to `master` branches"
+        },
+        {
+          "url": "https://github.com/apple/swift/pull/28089",
+          "title": "[AutoDiff] Move stdlib sources to stdlib/public/core/Differentiation."
+        },
+        {
+          "url": "https://github.com/apple/swift/pull/27509",
+          "title": "[NFC] [AutoDiff] Minor cleanup."
+        },
+        {
+          "url": "https://github.com/apple/swift/pull/27579",
+          "title": "[AutoDiff] Remove differentiation order from AD-related instructions."
+        },
+        {
+          "url": "https://github.com/apple/swift/pull/3590",
+          "title": "[Swift 2.3][ClangImporter] Update AvailAttr import for \"macosx\" to \"macos\" rename."
+        },
+        {
+          "url": "https://github.com/apple/swift/pull/3520",
+          "title": "[Swift 2.3][ClangImporter] Update AvailAttr import for \"macosx\" to \"macos\" rename."
+        }
+      ]
+    }
+  }
+}

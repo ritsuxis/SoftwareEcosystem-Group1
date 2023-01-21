@@ -1,0 +1,120 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/42434",
+          "title": "Don't allow renaming elements from node_modules"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/43102",
+          "title": "make \"es2017 lib\" error message casing consistent"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/44107",
+          "title": "fix(41299): Support Intl.NumberFormat.formatToParts in ES2018"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/42184",
+          "title": "feat: adjust TS2691 message for .ts import sources"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/39298",
+          "title": "String literal rename support"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/41959",
+          "title": "Avoid rewriting bare module specifiers on rename when fix is not verifiably correct"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/40606",
+          "title": "Fix missing renamed compiler flags"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/40637",
+          "title": "Proposal: importModuleSpecifierPreference: project-relative"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/issues/40554",
+          "title": "Generating types results in \"Cannot read property 'kind' of undefined\" error"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/issues/39070",
+          "title": "Could you please rename master branch and remove references to problematic words?"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/38462",
+          "title": "fix rename cause import change wrongly"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/38417",
+          "title": "Rename previousValue to accumulator"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/37745",
+          "title": "Fix rename for type symbols imported as a different name"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/36152",
+          "title": "prefix-unused-parameter-with-_ codefix now works in jsdoc @param"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/36790",
+          "title": "Fix renaming an ExportSpecifier name when propertyName is present"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/35765",
+          "title": "Codefix: Don\u2019t return a `fixId` if there\u2019s definitely nothing else that can be fixed"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/32903",
+          "title": "Fix writing multi-line text without semicolons"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/30562",
+          "title": "add refactor of extract type"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/29385",
+          "title": "Add user preference to opt-in to renaming import paths"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/29314",
+          "title": "Add opt-in user preference for prefix and suffix text on renames"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/29593",
+          "title": "Allow per-file setting for rename default behavior preferences"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/27031",
+          "title": "Ensure async code fix renaming can do more than one rename"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/27188",
+          "title": "Miscellaneous async code fix fixes"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/24527",
+          "title": "Rename ESNext `flatten` to `flat`"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/23870",
+          "title": "Rename"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/issues/10363",
+          "title": "\"A class must be declared after its base class\" on classes in different directories"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/23331",
+          "title": "Fix typeo: rename udpateReportDiagnostic to updateReportDiagnostic"
+        },
+        {
+          "url": "https://github.com/microsoft/TypeScript/pull/22816",
+          "title": "Added support for the pipeline operator `|>`"
+        }
+      ]
+    }
+  }
+}

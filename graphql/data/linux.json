@@ -1,0 +1,12 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/torvalds/linux/pull/475",
+          "title": "linux: Merge branch from linux/master into forked repo (#1)"
+        }
+      ]
+    }
+  }
+}

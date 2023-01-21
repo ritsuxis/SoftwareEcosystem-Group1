@@ -1,0 +1,56 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8231",
+          "title": "chore(deps-dev): bump @microsoft/api-documenter from 7.17.2 to 7.17.7"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8228",
+          "title": "chore(deps-dev): bump @microsoft/api-documenter from 7.17.2 to 7.17.6"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8218",
+          "title": "chore(deps-dev): bump @microsoft/api-documenter from 7.17.2 to 7.17.5"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8227",
+          "title": "chore(deps-dev): bump @microsoft/api-extractor from 7.20.1 to 7.21.3"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8217",
+          "title": "chore(deps-dev): bump @microsoft/api-extractor from 7.20.1 to 7.21.2"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8241",
+          "title": "chore(deps-dev): bump @microsoft/api-documenter from 7.17.2 to 7.17.9"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8240",
+          "title": "chore(deps-dev): bump @microsoft/api-extractor from 7.20.1 to 7.22.2"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8236",
+          "title": "chore(deps-dev): bump @microsoft/api-documenter from 7.17.2 to 7.17.8"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8237",
+          "title": "chore(deps-dev): bump @microsoft/api-extractor from 7.20.1 to 7.22.1"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/8230",
+          "title": "chore(deps-dev): bump @microsoft/api-extractor from 7.20.1 to 7.22.0"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/7412",
+          "title": "chore: remove references to upstream `master` branches"
+        },
+        {
+          "url": "https://github.com/puppeteer/puppeteer/pull/7949",
+          "title": "chore(deps-dev): bump eslint from 7.32.0 to 8.8.0"
+        }
+      ]
+    }
+  }
+}

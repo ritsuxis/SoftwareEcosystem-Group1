@@ -1,0 +1,64 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/elastic/elasticsearch/issues/86978",
+          "title": "[CI] Windows packaging tests failing to rename log file while in use"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/issues/42404",
+          "title": "Update Deprecation Info API checks for 8.0"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/issues/91444",
+          "title": "[CI] DocsClientYamlTestSuiteIT test {yaml=reference/cluster/nodes-info/line_283} failing"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/issues/75571",
+          "title": "Security Certificate Tests fail in JDK 1.8.0_292 due to JDK bug"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/pull/79521",
+          "title": "Update BWC version logic to adapt to removal of M.x branch"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/pull/70326",
+          "title": "[Transform] fix itermittent problem in TransformIndexerTests/TransformIndexerFailureHandlingTests"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/pull/9733",
+          "title": "Rename Maven repository id"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/pull/54803",
+          "title": "Merge feature/searchable-snapshots branch into master"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/issues/50806",
+          "title": "Add searchable snapshots actions to ILM"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/issues/32789",
+          "title": "[ingest] Enrich documents prior to indexing "
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/issues/32899",
+          "title": "Lucene 8 upgrade checklist"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/pull/30992",
+          "title": "Renames and refactoring for reloadable plugins"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/pull/17843",
+          "title": "Analyze API : Rename filters/token_filters/char_filter in Analyze API in master"
+        },
+        {
+          "url": "https://github.com/elastic/elasticsearch/pull/7082",
+          "title": "[TEST] GC Disruption"
+        }
+      ]
+    }
+  }
+}

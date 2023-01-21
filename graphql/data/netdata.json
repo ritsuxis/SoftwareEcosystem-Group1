@@ -1,0 +1,32 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/netdata/netdata/pull/13072",
+          "title": "Fix Plugins (ebpf, apps) memory leak"
+        },
+        {
+          "url": "https://github.com/netdata/netdata/issues/11814",
+          "title": "netdata container seems to spawn virtual network interfaces endlessly"
+        },
+        {
+          "url": "https://github.com/netdata/netdata/pull/12014",
+          "title": "Remove uncessary call"
+        },
+        {
+          "url": "https://github.com/netdata/netdata/issues/11736",
+          "title": "Install and add node with kickstart script on freebsd failing."
+        },
+        {
+          "url": "https://github.com/netdata/netdata/pull/6914",
+          "title": "netdata/ci: nits and fixes around package release workflow"
+        },
+        {
+          "url": "https://github.com/netdata/netdata/pull/6223",
+          "title": "netdata/packaging: Introducing automatic binary packages generation and delivery for RPM types (Phase 1)"
+        }
+      ]
+    }
+  }
+}

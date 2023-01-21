@@ -1,0 +1,96 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/mui/material-ui/pull/35446",
+          "title": "[test] Fix broken master branch"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/33353",
+          "title": "Lock file maintenance bundling fixtures"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/issues/27825",
+          "title": "Rollout of v5 \ud83d\ude80"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/34322",
+          "title": "Bump next to 12.1.0 [SECURITY]"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/33834",
+          "title": "Bump MUI X"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/32534",
+          "title": "Bump eslint to ^8.14.0"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/32430",
+          "title": "Bump next to v12.1.0 [SECURITY] - autoclosed"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/30638",
+          "title": "Bump next to ^12.0.9 - autoclosed"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/32062",
+          "title": "Bump next to v12.1.0 [SECURITY]"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/30787",
+          "title": "Bump next to v12.1.0 [SECURITY]"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/issues/20012",
+          "title": "[RFC] Material-UI v5 \ud83d\ude80"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/28432",
+          "title": "Bump @mui/utils to ^5.0.0"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/28431",
+          "title": "Bump @mui/material to ^5.0.0"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/28430",
+          "title": "Bump @mui/icons-material to ^5.0.0"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/27752",
+          "title": "Bump Node.js to &gt;&#x3D;v14.17.5"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/25705",
+          "title": "Bump globby from 11.0.2 to 11.0.3"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/26842",
+          "title": "Bump webpack and karma-webpack"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/21599",
+          "title": "Bump puppeteer from 4.0.0 to 4.0.1"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/20117",
+          "title": "Bump danger from 9.2.10 to 9.3.0"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/17948",
+          "title": "Bump notistack from 0.9.3 to 0.9.5"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/issues/13663",
+          "title": "RFC: Material-UI v4 breaking changes"
+        },
+        {
+          "url": "https://github.com/mui/material-ui/pull/6776",
+          "title": "Update webpack to the latest version \ud83d\ude80"
+        }
+      ]
+    }
+  }
+}
