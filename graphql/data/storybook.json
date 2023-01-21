@@ -1,0 +1,156 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/20507",
+          "title": "CLI: overhaul `storybook repro` command and rename it to `storybook sandbox`"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/20108",
+          "title": "Update Integration Catalog docs to reflect recent changes"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/19469",
+          "title": "Update telemetry.md"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/18131",
+          "title": "API: Deprecate isToolshown, rename to showToolbar"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/17956",
+          "title": "Theming: Re-export correct bundled file"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/16034",
+          "title": "Addon-docs: Bugfixes for new on-demand architecture"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/issues/15328",
+          "title": "Use `main` instead of `master` for the trunk branch"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/16184",
+          "title": "Default sb init in ESM projects to use cjs"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/15526",
+          "title": "Essentials: Add outline addon to monorepo"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/12155",
+          "title": "Add example codesnippet for using ArgsTable with stories"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/12663",
+          "title": "Enhance the backgrounds addon to support CSS variables."
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/14845",
+          "title": "Update react/button-story-rename-story.ts.mdx"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/14570",
+          "title": "Fix link to Shopify Polaris's Storybook"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/14465",
+          "title": "Vue 3: rename slot args if prop args with same name already exist"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/6460",
+          "title": "chore(deps-dev): bump codelyzer from 4.5.0 to 5.0.0"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/6371",
+          "title": "Bump danger from 7.0.15 to 7.0.19"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/12603",
+          "title": "Composition: Rename `disabled` parameter => `disable`"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/13320",
+          "title": "CI: Speed up CircleCI workflows"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/4582",
+          "title": "Bump @angular/common from 7.0.0 to 7.0.1"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/4578",
+          "title": "Bump @angular/compiler-cli from 7.0.0 to 7.0.1"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/4579",
+          "title": "Bump @angular/platform-browser from 7.0.0 to 7.0.1"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/4555",
+          "title": "Bump @angular/compiler from 7.0.0 to 7.0.1"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/4554",
+          "title": "Bump @angular/forms from 7.0.0 to 7.0.1"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/4553",
+          "title": "Bump @angular/core from 7.0.0 to 7.0.1"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/4550",
+          "title": "Bump @angular/platform-browser-dynamic from 7.0.0 to 7.0.1"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/7689",
+          "title": "Bump svelte from 3.6.4 to 3.7.0"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/10442",
+          "title": "Addon-docs: Add CSS Shadow Parts to web-component props table"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/4732",
+          "title": "Bump @storybook/addon-links from 3.4.11 to 4.0.4 in /docs"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/12094",
+          "title": "Fix snippet path in story layout docs"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/2806",
+          "title": "Update 28 dependencies from npm"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/3712",
+          "title": "Update 34 dependencies from npm"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/3513",
+          "title": "Update 30 dependencies from npm"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/9540",
+          "title": "Fixed Angular button example story"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/10419",
+          "title": "chore(deps): bump sitemap from 4.1.1 to 6.1.1 in /docs"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/10136",
+          "title": "Bump sitemap from 4.1.1 to 6.1.0 in /docs"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/8402",
+          "title": "chore: replace link URL from stroybook-chrome-screenshot to storycap"
+        },
+        {
+          "url": "https://github.com/storybookjs/storybook/pull/6629",
+          "title": "Fix issue with sb init for projects with frozen lock files"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/microsoft/vscode/issues/165320",
+          "title": "Source control shows current branch as 'master'"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/61877",
+          "title": "VS Code no longer supports 'edit' in 'git rebase' flow"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/157872",
+          "title": "Git: Source Control: Submodule detection"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/125217",
+          "title": "Rename `master` branch to `main`"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/135402",
+          "title": "Warning C4250 Error message is not up to date with woke terminology"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/134988",
+          "title": "Git source control is broken"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/134943",
+          "title": "Source Control tab showActionButton "
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/100150",
+          "title": "Could you please rename master branch and remove problematic words?"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/116341",
+          "title": "\u26a0\ufe0f\ud83d\udea7\ud83d\udc77 Scheduled rename `master` branch to `main`"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/108911",
+          "title": "Broken Gif for new extension"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/113673",
+          "title": "Rename function in git extension"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/116687",
+          "title": "https://aka.ms/vscodeissuereporting forwarder needs updating"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/113402",
+          "title": "Rename/delete"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/111644",
+          "title": "feat: add rename symbol within <script> tags"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/113364",
+          "title": "Allow ResourceCommandResolver.getRightResource() to return undefined"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/113505",
+          "title": "Adds support for gulpfiles using ESM."
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/97486",
+          "title": "Add rename by git context menu"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/96272",
+          "title": "Explorer: Allow ./ prefix when creating/renaming file"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/102420",
+          "title": "Update and rename src/vs/vscode.d.ts to src/VS/vscode.d.ts"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/102425",
+          "title": "Update and rename src/vs/workbench/api/browser/mainThreadTask.ts to s\u2026"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/95208",
+          "title": "Git submodules not updating via GUI"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/95739",
+          "title": "Prevent unexpected rename cancellation"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/94480",
+          "title": "Issue #93589: Rename 'renameShorthandProperties' setting to 'useAliasesForRenames'"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/96072",
+          "title": "Consistent notebook action names"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/94968",
+          "title": "Fixes rename preview \"Group Changes By File\" view doesn't show the reference type icon info"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/106677",
+          "title": "Iteration Plan for September 2020"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/89842",
+          "title": "Rename \"Contributions\" to \"Feature Contributions\""
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/83937",
+          "title": "Rename Show Control Hover (better naming)"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/85830",
+          "title": "Finalize onWill|DidCreate|Rename|DeleteFile apis"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/84429",
+          "title": "#82105 Add Terminal Rename Command"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/87052",
+          "title": "Fixes incorrect focused element when creating new file/folder and renaming in file explorer"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/83418",
+          "title": "Rename \"Reveal in Explorer\" to \"Reveal in Side Bar\" on Search result filename context menu"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/pull/89678",
+          "title": "Update my fork (#2)"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/93052",
+          "title": "Error - Changes committed to remote repository but deployment to website failed. ; error NETSDK1045: The current .NET SDK does not support targeting .NET Core 3.0."
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/78508",
+          "title": "Cannot find module after switching branch"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/54886",
+          "title": "SCM: Support commit message syntax highlighting"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/31268",
+          "title": "Multiple RenameProviders for same language issue"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/48936",
+          "title": "Git branch cleanup"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/46244",
+          "title": "I think VS Code deleted my Git history after a file rename"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/37117",
+          "title": "October Endgame"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/24391",
+          "title": "Problem when syncing with Git"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/30909",
+          "title": "Failed at the code-oss-dev@1.15.0 watch script 'gulp watch --max_old_space_size=4096'"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/11917",
+          "title": "September Iteration Plan"
+        },
+        {
+          "url": "https://github.com/microsoft/vscode/issues/15099",
+          "title": "November/December Iteration Plan"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/github/gitignore/pull/3906",
+          "title": "doc(readme): master branch is now main"
+        },
+        {
+          "url": "https://github.com/github/gitignore/pull/3910",
+          "title": "Replace references of this repo's \"master\" branch with \"main\"."
+        }
+      ]
+    }
+  }
+}

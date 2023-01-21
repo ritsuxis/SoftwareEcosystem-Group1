@@ -1,0 +1,16 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/vuejs/vue/pull/12764",
+          "title": "chore: update PR Template"
+        },
+        {
+          "url": "https://github.com/vuejs/vue/pull/7163",
+          "title": "fix(vue-template-compiler): rename parseHTML to parseSFC"
+        }
+      ]
+    }
+  }
+}

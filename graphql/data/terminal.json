@@ -1,0 +1,12 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/microsoft/terminal/issues/6739",
+          "title": "Branch rename: master -> main"
+        }
+      ]
+    }
+  }
+}

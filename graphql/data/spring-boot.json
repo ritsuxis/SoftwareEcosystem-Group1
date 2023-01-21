@@ -1,0 +1,12 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/spring-projects/spring-boot/issues/18844",
+          "title": "Rename spring-boot CI pipeline to include the version in its name"
+        }
+      ]
+    }
+  }
+}

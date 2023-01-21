@@ -1,0 +1,52 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/facebook/react/issues/24891",
+          "title": "Is AppVeyor still used to test against Windows, can it be moved to CircleCI, and/or can we update it to use a modern/supported version of Node?"
+        },
+        {
+          "url": "https://github.com/facebook/react/pull/15668",
+          "title": "Delete duplicate Drag.js"
+        },
+        {
+          "url": "https://github.com/facebook/react/issues/19134",
+          "title": "Could you please rename master branch and remove any problematic references?"
+        },
+        {
+          "url": "https://github.com/facebook/react/pull/22256",
+          "title": "Fix disable element stop scrollIntoView behave smoothly"
+        },
+        {
+          "url": "https://github.com/facebook/react/issues/21767",
+          "title": "The primary branch has been renamed from \"master\" to \"main\""
+        },
+        {
+          "url": "https://github.com/facebook/react/pull/22296",
+          "title": "Fix link"
+        },
+        {
+          "url": "https://github.com/facebook/react/pull/21998",
+          "title": "Renames master to main in fixtures/flight webpack config file"
+        },
+        {
+          "url": "https://github.com/facebook/react/pull/21449",
+          "title": "Renamed function in error log issue #21446"
+        },
+        {
+          "url": "https://github.com/facebook/react/pull/19634",
+          "title": "Import React Concurrent Mode Profiler"
+        },
+        {
+          "url": "https://github.com/facebook/react/pull/10794",
+          "title": "Remove Stack (part 1, safe: unused files and tests)"
+        },
+        {
+          "url": "https://github.com/facebook/react/pull/8589",
+          "title": "Add basic testing page for browser quicks"
+        }
+      ]
+    }
+  }
+}

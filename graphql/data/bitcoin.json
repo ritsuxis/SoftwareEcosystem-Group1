@@ -1,0 +1,28 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/bitcoin/bitcoin/pull/26593",
+          "title": "tracing: Only prepare tracepoint arguments when actually tracing"
+        },
+        {
+          "url": "https://github.com/bitcoin/bitcoin/issues/20851",
+          "title": " Release schedule for 22.0"
+        },
+        {
+          "url": "https://github.com/bitcoin/bitcoin/pull/21068",
+          "title": "Add GitHub Codespaces integration to allow for easy onboarding of future generations of contributors"
+        },
+        {
+          "url": "https://github.com/bitcoin/bitcoin/pull/19997",
+          "title": "History for Taproot PR #19953"
+        },
+        {
+          "url": "https://github.com/bitcoin/bitcoin/pull/177",
+          "title": "convert build system to autotools"
+        }
+      ]
+    }
+  }
+}

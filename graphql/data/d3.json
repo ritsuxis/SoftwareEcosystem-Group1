@@ -1,0 +1,12 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/d3/d3/issues/3501",
+          "title": "Adopt type: module."
+        }
+      ]
+    }
+  }
+}

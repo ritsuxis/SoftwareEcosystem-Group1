@@ -1,0 +1,12 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/tailwindlabs/tailwindcss/pull/7332",
+          "title": "Update eslint: 8.6.0 \u2192 8.8.0 (minor)"
+        }
+      ]
+    }
+  }
+}

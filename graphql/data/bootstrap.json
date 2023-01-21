@@ -1,0 +1,20 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/twbs/bootstrap/pull/34591",
+          "title": "Bump sass from 1.35.2 to 1.36.0"
+        },
+        {
+          "url": "https://github.com/twbs/bootstrap/pull/33434",
+          "title": "Bump globby from 11.0.2 to 11.0.3"
+        },
+        {
+          "url": "https://github.com/twbs/bootstrap/issues/2258",
+          "title": "Version release process"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/40895",
+          "title": "Rename all default branches to main across the fCC organization"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/40210",
+          "title": "Renaming Primary Branch"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/39567",
+          "title": "fix(client): rename certification for typo"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/38617",
+          "title": "fix: rename tensorflow lessons"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/39098",
+          "title": "Rename Master branch to Main and modernize references to master-slave db replication"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/39026",
+          "title": "feat(learn): rename certificates, cert slugs, and cert flags"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/41991",
+          "title": "fix(deps): update dependency react-instantsearch-dom to v6.11.0"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/36201",
+          "title": "fix/es6-destructuring-reword+new-lesson"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/39463",
+          "title": "chore(learn): Renamed all project-based curriculum project step filenames to use 3-digit format of part-ddd.md"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/38602",
+          "title": "Fix/add video ids and tests"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/36716",
+          "title": "docs: move non-English README.md files out of root"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37792",
+          "title": "fix: Update file names, challenge titles, and update helpCategory"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37686",
+          "title": "fix: unique challenge names"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/36144",
+          "title": "Fix/revise es6 import lessons"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/40776",
+          "title": "fix(docs): Configure docs folder with Crowdin"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/40453",
+          "title": "feat(tool): Add ability to view all open PRs for repos other than freeCodeCamp in the Dashboard app"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/38995",
+          "title": "feat(learn): add full stack certificate markdown"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/40882",
+          "title": "fix(docs, tools): switch to main in PR template"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/39194",
+          "title": "fix(client): update middleware names of helmet.js tests"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/38891",
+          "title": "feat(docs): add chinese news author application"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/38801",
+          "title": "Fix false negatives in bubble sort test"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37420",
+          "title": "Rename devops.md to how-to-do-DevOps.md"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37737",
+          "title": "Updated file names required in advanced-node:project in modules"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/34049",
+          "title": "fixed DO#, renamed to C#, replaced \"C #\" with \"C#\""
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/36316",
+          "title": "README files for other languages need to be renamed/moved or deleted from root repo directory"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/24442",
+          "title": "Update and rename index.md to revision_of_the_translation_to_Spanish.md"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/24507",
+          "title": "Update and rename index.md to complete_translation_to_Spanish.md"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/24468",
+          "title": "Update and rename index.md to revision-to-Spanish-translation-and-two\u2026"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/36767",
+          "title": "docs: fix link path to other translations in document-quick-reference"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/36580",
+          "title": "fix/remove-articles-for-deleted-challenges"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/36528",
+          "title": "fix(guide) add stubs and correct file path misspellings and prepare move"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/28195",
+          "title": "Added More Functions(Appending, Removing, Renaming and Moving a file)"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/36124",
+          "title": "fix: renamed folder without starting dash for Iterate Through the Keys of an Object with a for...in Statement challenge"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/28367",
+          "title": "Rename folder"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/35281",
+          "title": "fix: rename guide folders [arabic]"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/35285",
+          "title": "fix: rename guide folders [spanish]"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/35282",
+          "title": "fix: rename guide folders [chinese]"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/35284",
+          "title": "fix: rename guide folders [russian]"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/35283",
+          "title": "fix: rename guide folders [portuguese]"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/34749",
+          "title": "Changed grid-column-gap to column-gap"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/35430",
+          "title": "fix: Rename section in Modify array challenge"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/35398",
+          "title": "fix(guide): rename guide article filename to include dot instead of dash"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/35280",
+          "title": "fix: broken get a hint links [english]"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/24920",
+          "title": "add rename instruction"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/31903",
+          "title": "created about_rust.md for more information about rust"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/20580",
+          "title": "Clarify concepts, rename a function"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/27119",
+          "title": "Renamed hint file to correct folder name"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/28589",
+          "title": "fix(guide): rename hint folder to correct folder name"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/21639",
+          "title": "Added the text 'from x import y as z'"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/18403",
+          "title": "mv rename function added"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/34224",
+          "title": "Removed btn-default. added btn-secondary"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/27818",
+          "title": "added basic info on type safety and optional types"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/22138",
+          "title": "replace"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/24167",
+          "title": "fix(guide): Renamed 3D and Blender directories so Travis CI tests pass"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/23838",
+          "title": "For #21176 I believe I've renamed /create-file-with-sepcific-size to /create-file-with-specific\u2026"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/24240",
+          "title": "fix(guide): Lowercased the Tableau and Talend directories in all languages"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/14155",
+          "title": "Update pmx to version 1.1.0 \ud83d\ude80"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/10034",
+          "title": "Update eslint-plugin-react to version 6.0.0 \ud83d\ude80"
+        },
+        {
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/7143",
+          "title": "Update eslint-plugin-react to version 4.0.0 \ud83d\ude80"
+        }
+      ]
+    }
+  }
+}

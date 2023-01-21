@@ -1,0 +1,24 @@
+{
+  "data": {
+    "search": {
+      "nodes": [
+        {
+          "url": "https://github.com/facebook/create-react-app/pull/10696",
+          "title": "Chore:  Update document to GitHub default branch"
+        },
+        {
+          "url": "https://github.com/facebook/create-react-app/pull/11320",
+          "title": "update the init.js function to rename master branch to main"
+        },
+        {
+          "url": "https://github.com/facebook/create-react-app/issues/11184",
+          "title": "Rename master branch to main"
+        },
+        {
+          "url": "https://github.com/facebook/create-react-app/issues/1680",
+          "title": "Restore Windows 0.10 simple test"
+        }
+      ]
+    }
+  }
+}
